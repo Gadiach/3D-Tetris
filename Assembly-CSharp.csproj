@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{32C3BDE6-E125-3128-82C1-25D0441455A3}</ProjectGuid>
+    <ProjectGuid>{6BB1E120-A04F-338E-B64F-4EC3884B26E8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,9 +61,9 @@
     <Compile Include="Assets\Scripts\TouchControl.cs" />
     <Compile Include="Assets\Scripts\Finish.cs" />
     <Compile Include="Assets\Scripts\boxCollision.cs" />
+    <Compile Include="Assets\Scripts\rig.cs" />
     <Compile Include="Assets\Scripts\ScoreScript.cs" />
     <Compile Include="Assets\Scripts\Final.cs" />
-    <Compile Include="Assets\Scripts\rig.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

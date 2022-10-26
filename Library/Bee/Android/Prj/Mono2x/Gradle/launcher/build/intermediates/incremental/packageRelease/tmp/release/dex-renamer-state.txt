@@ -1,0 +1,4 @@
+#Wed Oct 26 15:31:30 EEST 2022
+base.0=D\:\\3D-Tetris\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
